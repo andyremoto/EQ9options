@@ -1,14 +1,24 @@
-# Vite Vue Starter
+# equals9
 
-This is a project template using [Vite](https://vitejs.dev/). It requires [Node.js](https://nodejs.org) v12+.
-
-To start:
-
-```sh
-npm install
-npm run dev
-
-# if using yarn:
-yarn
-yarn dev
+## Project setup
 ```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
